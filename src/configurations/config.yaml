@@ -1,0 +1,13 @@
+VaultConfigurations:
+  root_dir: vault/
+  knowledge_dir: vault/knowledge/
+  memory_dir: vault/memory/
+  chroma_db: vault/db
+  knowledge_coll_name: knowledge_coll
+  memory_coll_name: memory_coll
+
+PrompterConfig:
+  root_dir: vault/
+  knowledge_dir: vault/knowledge/
+  memory_dir: vault/memory/
+  chroma_db: vault/db

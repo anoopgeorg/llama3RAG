@@ -1,0 +1,10 @@
+langchain
+langchain_community
+flask
+python-box[all]~=7.0
+PyYAML
+langchain-chroma
+pdfplumber
+fastembed
+langgraph
+python-dotenv
